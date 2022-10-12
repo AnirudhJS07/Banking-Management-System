@@ -12,7 +12,7 @@ A banking management system in C++. Read more about the working of the parent fi
 * Get to learn something new
 
 # How to Contribute (Updated)
-To get started contributing to the project, see the [contributing guide](CONTRIBUTING.md).
+To get started contributing to the project, see the [contributing guide](CONTRIBUTION.md).
 (Please pull the changes from this repo if you have already forked the repository and are facing conflicts) If you like the repository, please star it.
 
 # 🤝🏻 Our Contributors
